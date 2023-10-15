@@ -33,9 +33,9 @@ const Dashboard = () => {
             <DoughnutChartData />
           </div>
         </div>
-      </div>
-      <div className="pt-8 h-28">
-        <TableData />
+        <div>
+          <TableData />
+        </div>
       </div>
     </section>
   );
